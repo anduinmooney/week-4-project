@@ -1,0 +1,35 @@
+.panel-header {
+  background-color: orange;
+  color: rgb(150, 93, 12);
+}
+
+#number {
+  color: red;
+  font-weight: bold;
+}
+
+.name {
+  color: blue;
+  text-align: center;
+}
+
+.online {
+  color: green;
+  text-align: center;
+}
+
+.viewAll {
+  text-align: right;
+  color: red;
+}
+
+.container .photo {
+  height: 150px;
+  width: 100px;
+}
+
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
