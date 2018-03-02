@@ -1,4 +1,4 @@
-### Work done
+### Work Done For JavaScript Week 4 Project
 
 _This is my work throughout the day done in order_
 
@@ -39,3 +39,9 @@ _Complete Pinboard project in CSS_
 
 * _Project Page: https://www.learnhowtoprogram.com/css/moving-forward-with-css/pinboard-and-endangered-species-infographics_
 * _Project Image: https://imgur.com/YT1wbky_
+
+
+_Research videos on floats. The first video didn't provide much new information to me, but it was definitely nice to see what you can do with floats in action. The second video was more in depth about floats, and it tought me how to avoid collapsing floats with multiple solutions, such as using clearfix or overflow in CSS._
+
+* _W3Schools CSS Float Tutorial: https://www.youtube.com/watch?v=dK-NwjlhmqU_
+* _Clearfix Solution: https://www.youtube.com/watch?v=dJt2PjybuQs_
