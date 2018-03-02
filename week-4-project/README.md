@@ -40,7 +40,7 @@ _Research into absolute vs relative positioning, as well as fixed positioning. A
 
 * _Absolute vs Relative: https://mayvendev.com/blog/the-lowdown-on-absolute-vs-relative-positioning_
 ___
-_Complete Pinboard project in CSS_
+_Complete Pinboard project in CSS, using absolute and relative methods in CSS to add multiple images together to make it look like a polaroid picture pinned to a cork board._
 
 * _Project Page: https://www.learnhowtoprogram.com/css/moving-forward-with-css/pinboard-and-endangered-species-infographics_
 * _Project Image: https://imgur.com/YT1wbky_
