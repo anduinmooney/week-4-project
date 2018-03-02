@@ -25,3 +25,7 @@ _Research pseudo classes, found this extremely interesting. It opens up so much 
 _Research into pseudo elements. Using pseudo elements allows the user to get even more specific and target a property from an element, such as changing the first letter of some sort of text by using "p::first-letter {color: #123}". You're also able to add words or pictures/icons to elements, and the page included ways to create shapes with a ":before" and "":after" tag in CSS. Both pseudo classes and pseudo elements opened the door into more advanced CSS, allowing me to customize pages in a way that I wasn't ever able to do before, unless I filled my code with div's and spans._
 
 * _Pseudo Elements: https://mayvendev.com/blog/the-lowdown-on-before-and-after-in-css_
+
+_Research into absolute vs relative positioning, as well as fixed positioning. Absolute and Relative position both allow the user to place an element EXACTLY where they want it on the page. This would have been helpful for me during when I was working on the top-8 project for when the borders around the image wouldn't actually border the image, and I'm going to go add this now. Fixed positioning allows me to be able to scroll through a page and have something like a navbar be static to the screen, not changing its position while the page is still scrolling._
+
+* _Absolute vs Relative: https://mayvendev.com/blog/the-lowdown-on-absolute-vs-relative-positioning_
