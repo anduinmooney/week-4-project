@@ -20,8 +20,8 @@ _Complete Top-8 Project in CSS, where you attempt to replicate an image based on
 
 * _Project Page: https://www.learnhowtoprogram.com/css/moving-forward-with-css/top-8-div-playground-landing-pages_
 * _Original Image: https://dl.dropboxusercontent.com/s/p5bs7a6j7sy3941/top8-edit.png_
-* _Replicated Image: https://imgur.com/a/ONrjt_
-* _Project with :before borders: https://imgur.com/a/ll8r2_
+* _Replicated Image: https://imgur.com/vQp6fvW_
+* _Project with :before borders: https://imgur.com/OTGjGak_
 
 _Research pseudo classes, found this extremely interesting. It opens up so much more customization with small quality-of-life changes. Focusing on the small things like having a link change color when hovered over, or changing color of a link or text area if the keyboard is focused on it. Also includes powerful tools for selecting very specific things, like child elements such as a list. You can specifically target things like the first listing from a list, and this allows you to target multiple specific things instead of creating a unique div or targeting all of a list. There's a ton more, and I'm definitely going to be coming back to this page for whenever I need some CSS done on my work._
 
@@ -34,3 +34,8 @@ _Research into pseudo elements. Using pseudo elements allows the user to get eve
 _Research into absolute vs relative positioning, as well as fixed positioning. Absolute and Relative position both allow the user to place an element EXACTLY where they want it on the page. This would have been helpful for me during when I was working on the top-8 project for when the borders around the image wouldn't actually border the image, and I'm going to go add this now. Fixed positioning allows me to be able to scroll through a page and have something like a navbar be static to the screen, not changing its position while the page is still scrolling._
 
 * _Absolute vs Relative: https://mayvendev.com/blog/the-lowdown-on-absolute-vs-relative-positioning_
+
+_Complete Pinboard project in CSS_
+
+* _Project Page: https://www.learnhowtoprogram.com/css/moving-forward-with-css/pinboard-and-endangered-species-infographics_
+* _Project Image: https://imgur.com/YT1wbky_

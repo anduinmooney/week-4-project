@@ -1,3 +1,26 @@
 body {
   background-image: url("../images/cork-board.jpg");
 }
+
+.thumbtack {
+  z-index: 1;
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 350px;
+}
+
+.polaroid {
+  z-index: -1;
+  position: relative;
+  top: 100px;
+  left: 100px;
+}
+
+.photo {
+ z-index: -2;
+ content: "";
+ position: absolute;
+ top: 190px;
+ left: 200px;
+}
