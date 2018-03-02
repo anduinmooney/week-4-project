@@ -9,3 +9,10 @@ _Read articles that go over some of the basics of CSS_
 * _Centering in CSS: https://www.w3.org/Style/Examples/007/center.en.html_
 * _The difference between "Block" and "Inline": https://www.impressivewebs.com/difference-block-inline-css/_
 * _Info on Box-Sizing: https://www.impressivewebs.com/difference-block-inline-css/_
+
+
+
+_Complete Top-8 Project in CSS, where you attempt to replicate an image based on what you've learned so far with CSS_
+
+* _Original Image: https://dl.dropboxusercontent.com/s/p5bs7a6j7sy3941/top8-edit.png_
+* _Replicated Image: https://imgur.com/a/ONrjt_
