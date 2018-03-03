@@ -1,4 +1,4 @@
-### Work Done For JavaScript Week 4 Project
+## Work Done For JavaScript Week 4 Project
 
 _This is my work throughout the day done in order_
 
