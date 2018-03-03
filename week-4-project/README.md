@@ -50,3 +50,9 @@ _Research videos on floats. The first video didn't provide much new information 
 
 * _W3Schools CSS Float Tutorial: https://www.youtube.com/watch?v=dK-NwjlhmqU_
 * _Clearfix Solution: https://www.youtube.com/watch?v=dJt2PjybuQs_
+___
+_Complete Float project in CSS, using float methods to place the cards throughout the screen. This project had me replicate an image, which will be shown below_
+
+* _Project Page: https://www.learnhowtoprogram.com/css/moving-forward-with-css/2-column-layout-treehouse-library-about-me-page_
+* _Original Image: https://dl.dropboxusercontent.com/s/9w56sxe3jdd8ddj/treehouse%20screenshot.png _
+* _Replicated Image: https://imgur.com/S0tUXI9_
