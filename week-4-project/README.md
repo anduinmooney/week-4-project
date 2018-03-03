@@ -1,4 +1,13 @@
-## Work Done For JavaScript Week 4 Project
+## Week 4 Project
+
+_I had some issues deciding on what I wanted to work on today. I originally wanted to do logic problems so I can further my knowledge on writing logic and memorizing it in JavaScript, but I ended up going with CSS since I felt like learning CSS would overall improve my projects and future work more than practicing logic problems. I'm happy with my choice, and I plan on continuing my education on CSS_
+
+
+
+### Work Done For JavaScript Week 4 Project
+
+
+
 
 _This is my work throughout the day done in order_
 
